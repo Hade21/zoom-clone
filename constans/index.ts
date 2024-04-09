@@ -10,14 +10,14 @@ export const sidebarLinks = [
         route: '/upcoming',
     },
     {
-        label: 'Prevoius',
+        label: 'Previous',
         imgUrl: '/icons/previous.svg',
         route: '/previous',
     },
     {
-        label: 'Recording',
+        label: 'Recordings',
         imgUrl: '/icons/Video.svg',
-        route: '/recording',
+        route: '/recordings',
     },
     {
         label: 'Personal Room',
