@@ -1,5 +1,6 @@
-import CallList from "@/components/CallList";
 import React from "react";
+
+import CallList from "@/components/CallList";
 
 const Upcoming = () => {
   return (
