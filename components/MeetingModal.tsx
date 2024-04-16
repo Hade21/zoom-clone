@@ -15,8 +15,8 @@ import { Button } from "./ui/button";
 interface MeetingModalProps {
   isOpen: boolean;
   title: string;
-  className: string;
-  buttonText: string;
+  className?: string;
+  buttonText?: string;
   image?: string;
   buttonIcon?: string;
   children?: React.ReactNode;
